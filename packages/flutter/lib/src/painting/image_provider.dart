@@ -1009,6 +1009,7 @@ class MemoryImage extends ImageProvider<MemoryImage> {
 /// flutter:
 ///   assets:
 ///     - icons/heart.png
+///     -
 /// ```
 ///
 /// Then, to fetch the image and associate it with scale `1.5`, use:
